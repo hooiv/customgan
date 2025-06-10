@@ -1,0 +1,13 @@
+torch
+torchvision
+tqdm
+matplotlib
+scikit-image
+pillow
+numpy
+scipy
+pydicom
+beautifulsoup4
+lxml
+requests
+nibabel
